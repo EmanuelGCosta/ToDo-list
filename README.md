@@ -27,6 +27,12 @@
      dentro da própria base de dados outra lista para salvar os items que o usuário adicionou.</p>
 </div>
 
+
+
+https://github.com/EmanuelGCosta/ToDo-list/assets/99223358/45a85ff7-0232-4e04-a99b-f109f5792cee
+
+
+
 <div align="center">
     <p>• Adicione uma nova tarefa à lista • Remova uma tarefa da lista</p>
     <p>• Visualize as tarefas em uma lista específica • Crie novas listas de tarefas personalizadas</p>
