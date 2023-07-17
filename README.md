@@ -10,7 +10,7 @@
 </p>
 
 # Descrição do Projeto
->Este é um aplicativo de lista de tarefas simples desenvolvido com Node.js, Express e MongoDB. O aplicativo permite que os usuários criem listas de
+>Aplicativo de lista de tarefas simples desenvolvido com Node.js, Express e MongoDB. O aplicativo permite que os usuários criem listas de
 >tarefas personalizadas e adicionem, removam e visualizem as tarefas nessas listas.
 >
 >Projeto feito com intuito de familiarizar-me com rotas estáticas e dinâmicas, MongoDB e Express. 
